@@ -5,3 +5,5 @@
 *.css linguist-language=c
 
 *.html linguist-language=c
+*.cpp linguist-language=c
+
