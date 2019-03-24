@@ -1,9 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=c
-*.js linguist-language=c
-
-*.css linguist-language=c
-
-*.html linguist-language=c
+#所有文件后缀名为cpp的都为c语言
 *.cpp linguist-language=c
 
