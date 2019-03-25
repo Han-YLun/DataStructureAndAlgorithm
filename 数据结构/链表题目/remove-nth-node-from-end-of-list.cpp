@@ -2,6 +2,9 @@
 #include<string.h>
 #include<stdlib.h>
 #include<malloc.h>
+//题目链接：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list 
+
+
 //定义结构体 
 struct ListNode {
     int val;

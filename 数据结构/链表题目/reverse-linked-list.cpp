@@ -2,6 +2,8 @@
 #include<string.h>
 #include<stdlib.h>
 #include<malloc.h>
+//题目链接：https://leetcode-cn.com/problems/reverse-linked-list
+
 
 //定义结构体 
 struct ListNode{
@@ -9,7 +11,7 @@ struct ListNode{
       struct ListNode* next;
 };
 
-//解法一 
+//反转一个单链表 
 struct ListNode* reverseList(struct ListNode* head) {
 	//定义三个指针 
     struct ListNode *nodePre,*nodeCur,*nodeNext;
@@ -48,6 +50,7 @@ struct ListNode* reverseList(struct ListNode* head) {
 	return head;
 }
 
+//解法二 
 struct ListNode* reverseList(struct ListNode* head) {
 	//将前一个节点置为空,当前节点指向头节点 
    struct ListNode *prev = NULL,*cur = head;

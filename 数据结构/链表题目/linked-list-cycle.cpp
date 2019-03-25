@@ -2,12 +2,18 @@
 #include<string.h>
 #include<stdlib.h>
 #include<malloc.h>
+//题目链接：https://leetcode-cn.com/problems/linked-list-cycle
+
+
 //创建结构体 
 struct ListNode {
 	int val;
 	struct ListNode *next;
 };
 
+
+
+//给定一个链表，判断链表中是否有环 
 bool hasCycle(struct ListNode *head) {
 	//定义快慢指针 
 	struct ListNode *slow,*fast;
