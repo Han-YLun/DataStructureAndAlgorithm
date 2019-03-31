@@ -1,0 +1,13 @@
+1.单链表反转:
+	https://leetcode-cn.com/problems/reverse-linked-list
+2.链表中环的检测:
+	https://leetcode-cn.com/problems/linked-list-cycle
+3.两个有序的链表合并:
+	https://leetcode-cn.com/problems/merge-two-sorted-lists
+4.删除链表倒数第n个结点:
+	https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list
+5.求链表的中间结点:
+	https://leetcode-cn.com/problems/middle-of-the-linked-list
+6.两两交换链表中的节点:
+	https://leetcode-cn.com/problems/swap-nodes-in-pairs 
+	
