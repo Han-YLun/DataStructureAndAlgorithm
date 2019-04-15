@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Que155 {
+public class MinStack {
     class  MinStack{
         int min = Integer.MAX_VALUE;
         Stack<Integer> stack = new Stack();

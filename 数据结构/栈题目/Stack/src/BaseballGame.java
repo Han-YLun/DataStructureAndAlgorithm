@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Que682 {
+public class BaseballGame {
 
     public int calPoints(String[] ops) {
 

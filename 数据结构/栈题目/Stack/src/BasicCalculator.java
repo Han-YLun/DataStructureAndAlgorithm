@@ -1,7 +1,6 @@
-import java.util.HashMap;
 import java.util.Stack;
 
-public class Que224 {
+public class BasicCalculator {
 
 
     public int calculate(String s) {
@@ -145,7 +144,7 @@ public class Que224 {
 
 
     public static void main(String[] args) {
-        Que224 q = new Que224();
+        BasicCalculator q = new BasicCalculator();
         System.out.println(q.calculate("(1+(4+5+2)-3)+(6+8)"));
     }
 }

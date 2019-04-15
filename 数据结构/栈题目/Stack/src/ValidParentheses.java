@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Que20 {
+public class ValidParentheses {
 
 
     public boolean isValid(String s) {

@@ -1,9 +1,6 @@
-import javafx.beans.binding.IntegerExpression;
-import jdk.nashorn.internal.ir.debug.JSONWriter;
-
 import java.util.Stack;
 
-public class Que150 {
+public class EvaluateReversePolishNotation {
     public int evalRPN(String[] tokens) {
         //用来保存整数
         Stack<Integer> stack = new Stack();
@@ -44,7 +41,7 @@ public class Que150 {
 
     public static void main(String[] args) {
         String[] str = {"10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"};
-        Que150 q= new Que150();
+        EvaluateReversePolishNotation q= new EvaluateReversePolishNotation();
         System.out.println(q.evalRPN(str));
     }
 }

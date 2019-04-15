@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Que844 {
+public class BackspaceStringCompare {
 
 
     public boolean backspaceCompare(String S, String T) {

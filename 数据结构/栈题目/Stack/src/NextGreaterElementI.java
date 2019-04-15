@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Stack;
 
-public class Que496 {
+public class NextGreaterElementI {
     //解法一
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
 
@@ -77,7 +77,7 @@ public class Que496 {
     public static void main(String[] args) {
         int[] nums1 = new int[]{1,3,5,2,4};
         int[] nums2 = new int[]{6,5,4,3,2,1,7};
-        int[] ints = new Que496().nextGreaterElement2(nums1, nums2);
+        int[] ints = new NextGreaterElementI().nextGreaterElement2(nums1, nums2);
         for (int anInt : ints) {
             System.out.println(anInt);
         }
