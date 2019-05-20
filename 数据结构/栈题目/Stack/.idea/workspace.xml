@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0868a096-6b90-41df-97f4-57928eb90940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvaluateReversePolishNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que155.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que224.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImplementQueueUsingStacks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que496.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NextGreaterElementI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que682.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseballGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Que844.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackspaceStringCompare.java" afterDir="false" />
-    </list>
+    <list default="true" id="0868a096-6b90-41df-97f4-57928eb90940" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +16,11 @@
     <option name="myElementSize" value="192" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NextGreaterElementI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1418">
+            <state relative-caret-position="27">
               <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
@@ -76,7 +64,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,6 +81,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,6 +91,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -197,14 +186,16 @@
       <workItem from="1555224840168" duration="134000" />
       <workItem from="1555291317365" duration="8990000" />
       <workItem from="1555317037255" duration="483000" />
+      <workItem from="1555330081433" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24359000" />
+    <option name="totallyTimeSpent" value="24382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="242" y="142" width="1076" height="622" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3216981" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -324,7 +315,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NextGreaterElementI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1418">
+        <state relative-caret-position="27">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
